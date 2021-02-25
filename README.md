@@ -1,14 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&text=Sujin%20Park)
 <br/>
 <br/>
-<div align="center"><p style="text-align:center"> Hi there 👋 </p></div>
+<div align="center"><p style="text-align:center"> Hi there, I'm Sujin 👋 </p></div>
 <br/>
 <br/>
 <br/>
 <br/><br/>
  <div align="center"><b>:books: Tech Stack :books:</b></div>
 <br/>
-<br/><br/>
+<br/>
 <div align = "center">
 <img src="https://img.shields.io/badge/-SpringBoot-brightgreen?logo=Spring&logoColor=white&style=flat-square" /> &nbsp; 
 <img src="https://img.shields.io/badge/-MySQL-4479a1?logo=MySQL&logoColor=white&style=flat-square" /> &nbsp;
