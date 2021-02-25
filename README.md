@@ -6,8 +6,9 @@
 <br/>
 <br/>
 <br/><br/>
- <b align="center" style="text-align:center">:books: Tech Stack :books:</b>
+ <div align="center"><b>:books: Tech Stack :books:</b></div>
 <br/>
+<br/><br/>
 <div align = "center">
 <img src="https://img.shields.io/badge/-SpringBoot-brightgreen?logo=Spring&logoColor=white&style=flat-square" /> &nbsp; 
 <img src="https://img.shields.io/badge/-MySQL-4479a1?logo=MySQL&logoColor=white&style=flat-square" /> &nbsp;
