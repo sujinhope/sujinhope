@@ -22,4 +22,4 @@
 
 </div>
 
-![reversal](https://capsule-render.vercel.app/api?type=slice&reversal=true)
+![reversal](https://capsule-render.vercel.app/api?type=slice&rotate=270)
