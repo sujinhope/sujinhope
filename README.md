@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&text=Sujin%20Park&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=slice&text=Sujin%20Park&color=gradient&fontColor=black)
 <br/>
 <br/>
  <div align="center">
