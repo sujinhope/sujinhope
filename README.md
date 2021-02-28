@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&text=Sujin%20Park)
+![header](https://capsule-render.vercel.app/api?type=slice&text=Sujin%20Park&color=gradient)
 <br/>
 <br/>
  <div align="center">
@@ -22,4 +22,4 @@
 
 </div>
 
-![reversal](https://capsule-render.vercel.app/api?type=slice&rotate=90)
+![reversal](https://capsule-render.vercel.app/api?type=slice&rotate=90&section=footer&color=gradient)
