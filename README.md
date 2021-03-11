@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&text=Sujin%20Park&color=[{"color":{"0":"F8B195","50":"F67280","100":"C06C84"},"text":"f7f5f5"}]&fontColor=black)
+![header](https://capsule-render.vercel.app/api?type=slice&text=Sujin%20Park&color={"color":{"0":"F8B195","50":"F67280","100":"C06C84"},"text":"f7f5f5"}&fontColor=black)
 <br/>
 <br/>
  <div align="center">
