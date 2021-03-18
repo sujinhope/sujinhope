@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/-JavaScript-f7df1e?logo=JavaScript&logoColor=white&style=flat-square" /> &nbsp; 
 <br/>
 <img src="https://img.shields.io/badge/-CSS3-1572b6?logo=CSS3&logoColor=white&style=flat-square" /> &nbsp;
-<img src="https://img.shields.io/badge/-AWS-232f32?logo=Amazon AWS&logoColor=white&style=flat-square" /> &nbsp;
+<img src="https://img.shields.io/badge/-AWS-232f32?logo=AmazonAWS&logoColor=white&style=flat-square" /> &nbsp;
 
 </div>
 
