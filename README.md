@@ -22,7 +22,6 @@
 <img src="https://img.shields.io/badge/-Thymeleaf-005F0F?logo=Thymeleaf&logoColor=white&style=flat-square" /> &nbsp;
 <img src="https://img.shields.io/badge/-PostgeSQL-336791?logo=PostgreSQL&logoColor=white&style=flat-square" /> &nbsp;
  
-
 </div>
 
 ![reversal](https://capsule-render.vercel.app/api?type=slice&rotate=90&section=footer&color=gradient)
