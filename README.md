@@ -19,8 +19,9 @@
 <br/>
 <img src="https://img.shields.io/badge/-CSS3-1572b6?logo=CSS3&logoColor=white&style=flat-square" /> &nbsp;
 <img src="https://img.shields.io/badge/-AWS-232f32?logo=AmazonAWS&logoColor=white&style=flat-square" /> &nbsp;
+<img src="https://img.shields.io/badge/-Thymeleaf-005F0F?logo=Thymeleaf&logoColor=white&style=flat-square" /> &nbsp;
 <img src="https://img.shields.io/badge/-PostgeSQL-336791?logo=PostgreSQL&logoColor=white&style=flat-square" /> &nbsp;
- <img src="https://img.shields.io/badge/-Thymeleaf-005F0F?logo=Thymeleaf&logoColor=white&style=flat-square" /> &nbsp;
+ 
 
 </div>
 
