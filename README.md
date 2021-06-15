@@ -6,8 +6,10 @@
  <p>I'm a Web Developer</p>
 </div> 
 <br/><br/>
+<div align = "center">
 <span>Project</span>
   <p><a href="https://bit.ly/3mGbdWE"><b>Grass</b></a></p>
+ </div>
 <br/><br/><br/>
 
 <div align="center"><b>:books: Tech Stack :books:</b></div>
