@@ -6,6 +6,7 @@
  <p>I'm a Web Developer</p>
 </div> 
 <br/><br/>
+<div align="center"><a href="https://beforb.tistory.com/">Tistory</a></div>
 <br/><br/><br/>
 
 <div align="center"><b>:books: Tech Stack :books:</b></div>
